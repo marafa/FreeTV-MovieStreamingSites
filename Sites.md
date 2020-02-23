@@ -14,3 +14,4 @@
 | [PeacockTV](https://www.peacocktv.com/ "PeacockTV")| Yes| Yes| Yes | | |
 | [locast](https://www.locast.org "locast") | Yes| Yes| Yes | | |
 | [redbox](https://www.redbox.com/stream-free-live-tv)| Yes | Yes | No| |
+| [COMET TV](https://www.comettv.com/watch-live/) | |Yes | No | Yes |
