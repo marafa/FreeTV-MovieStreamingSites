@@ -16,3 +16,4 @@
 | [redbox](https://www.redbox.com/stream-free-live-tv)| Yes | Yes | No| |
 | [COMET TV](https://www.comettv.com/watch-live/) | |Yes | No | Yes |
 | [Sling TV](https://watch.sling.com/) | Yes | Yes | No | |
+| [MovieLand](https://movieland.site/) | Yes | Yes | Yes | | 
