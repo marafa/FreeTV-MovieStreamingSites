@@ -5,7 +5,7 @@
 | Name  | Android App   | Apple App | Login Required ? | Geo Locked? |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
 | [Crackle](https://www.crackle.com/ "Crackle")  | Yes  | Yes | No | |
-| [TubiTV](https://tubitv.com/home/ "TubiTV")  |  Yes | | No | |
+| [TubiTV](https://tubitv.com/home/ "TubiTV")  |  Yes | Yes| No | |
 | [imdbTV](https://www.imdb.com/tv/ "imdbTV") | Yes| | Yes | |
 | [Pluto TV](http://www.pluto.tv/live-tv/ "Pluto TV") | Yes | | No |  |
 | [XUMO](https://www.xumo.tv "XUMO")| Yes | | No |  |
