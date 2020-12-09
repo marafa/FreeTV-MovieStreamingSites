@@ -9,7 +9,7 @@
 |[imdbTV](https://www.imdb.com/tv/ "imdbTV") | Yes| | Yes | |
 | [Pluto TV](http://www.pluto.tv/live-tv/ "Pluto TV") | Yes | | No |  |
 | [XUMO](https://www.xumo.tv "XUMO")| Yes | | No |  |
-| [Hoopla](https://www.hoopladigital.com/browse/audiobook/popular?page=1 "Hoopla")| | | Yes ||
+| [Hoopla](https://www.hoopladigital.com/)| | | Yes ||
 |[Internet Archive](https://archive.org/details/moviesandfilms?&sort=-downloads&and%5B%5D=collection%3A%22feature_films%22 "Internet Archive") | | | No | No|
 |[Kanopy](https://www.kanopy.com/ "Kanopy") | | | Yes | |
 |[Plex](https://www.plex.tv/watch-free/ "Plex") | Yes| | Yes | |
