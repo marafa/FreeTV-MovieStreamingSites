@@ -18,3 +18,4 @@
 | [Sling TV](https://watch.sling.com/) | Yes | Yes | No | |
 | [MovieLand](https://movieland.site/) | Yes | Yes | Yes | | 
 | [popcornflix](https://www.popcornflix.com) | Yes | Yes | No | |
+| [redbox](https://www.redbox.com/stream-free-live-tv) | Yes | Yes | No | |
