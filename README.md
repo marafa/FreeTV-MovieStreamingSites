@@ -6,7 +6,6 @@
 | :------------: | :------------: | :------------: | :------------: | :------------: |
 | [Crackle](https://www.crackle.com/ "Crackle")  | Yes  | Yes | No | |
 | [TubiTV](https://tubitv.com/home/ "TubiTV")  |  Yes | Yes| No | |
-| [imdbTV](https://www.imdb.com/tv/ "imdbTV") | Yes| | Yes | |
 | [Pluto TV](http://www.pluto.tv/live-tv/ "Pluto TV") | Yes | Yes| No |  |
 | [XUMO](https://www.xumo.tv "XUMO")| Yes | | No |  |
 | [Hoopla](https://www.hoopladigital.com/ "Hoopla")| Yes| Yes | Yes ||
